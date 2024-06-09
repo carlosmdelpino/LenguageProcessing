@@ -1,0 +1,11 @@
+json
+nltk
+scikit-learn
+spacy
+seaborn
+pandas
+textblob
+matplotlib
+wordcloud
+nbformat
+plotly
