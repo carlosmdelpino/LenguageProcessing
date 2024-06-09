@@ -8,7 +8,7 @@ Descripción breve de tu proyecto.
 Instrucciones de instalación si es necesario.
 
 ## Para instalar todas las dependencias necesarias, ejecuta el siguiente comando en tu terminal:
-## pip install -r requirements.txt
+pip install -r requirements.txt
 
 Cómo utilizar tu proyecto.
 
