@@ -1,4 +1,3 @@
-json
 nltk
 scikit-learn
 spacy
@@ -9,3 +8,4 @@ matplotlib
 wordcloud
 nbformat
 plotly
+hdbscan

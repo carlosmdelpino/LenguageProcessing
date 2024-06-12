@@ -25,10 +25,5 @@ Se aplica el algoritmo KMeans para agrupar las frases en 5 clusters. Las frases 
 Para visualizar los clusters de manera efectiva, se utiliza PCA (Principal Component Analysis) para reducir la dimensionalidad de los vectores a 3 componentes principales, y se genera una visualización 3D interactiva utilizando Plotly.
 
 ## Paso 5: Explicación de Agrupaciones
-Se proporciona una explicación de los motivos de cada agrupación basada en las características comunes de las frases dentro de cada cluster.
-
-Instrucciones para contribuir a tu proyecto.
-
-## Licencia
-
-Indica la licencia bajo la cual se distribuye tu proyecto, si es aplicable.
+Se proporciona una explicación de los motivos de cada agrupación basada en las características comunes de las frases dentro de cada cluster. 
+Se utilizan para dicho agrupamiento los métodos basados en KNN y HDBSCAN
